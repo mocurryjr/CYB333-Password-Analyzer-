@@ -1,0 +1,17 @@
+# Password Strength Analyzer Dependencies
+# Core dependencies for password analysis
+
+# For enhanced security features (optional)
+cryptography>=3.4.8
+
+# For additional password validation (optional)
+zxcvbn-python>=4.0.1
+
+# For testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# For development
+black>=22.0.0
+flake8>=5.0.0
+mypy>=1.0.0 
